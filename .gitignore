@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build
+/.next/
+/out/
+
+# Environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache and logs
+/.cache/
+/.next/
+/.npm/
+/.yarn/
+/.pnp/
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+# Editor-specific files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Test coverage
+/coverage/
+
+# Build scripts
+next.config.js
+
+# Ignore package-lock.json or yarn.lock if using npm or Yarn
+# Uncomment the relevant line depending on package manager used
+# package-lock.json
+# yarn.lock
+
+# Ignore .env file containing environment secrets
+.env
+
+# Ignore production build artifacts
+build/
