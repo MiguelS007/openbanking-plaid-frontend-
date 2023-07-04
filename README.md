@@ -11,7 +11,7 @@ Criação de uma aplicação Open Banking integrado com uma das APIs mais usadas
 
 ## Images
 
-![enter image description here](![image](https://github.com/MiguelS007/openbanking-plaid-frontend-/assets/61780220/7fd67d25-7c81-4d90-8f6a-a2a6f1861aed))
+(![image](https://github.com/MiguelS007/openbanking-plaid-frontend-/assets/61780220/7fd67d25-7c81-4d90-8f6a-a2a6f1861aed))
 ![image](https://github.com/MiguelS007/openbanking-plaid-frontend-/assets/61780220/16c26133-4593-4ebb-b95a-585d55309762)
 ![image](https://github.com/MiguelS007/openbanking-plaid-frontend-/assets/61780220/017998ee-d75f-4f68-bd41-4597409d776f)
 ![image](https://github.com/MiguelS007/openbanking-plaid-frontend-/assets/61780220/3e7b7454-69c0-4cd0-9ea7-d36142e272e3)
